@@ -3,9 +3,8 @@
 # Integrated Design Graduation Show 2024
 「多摩美術大学 統合デザイン学科卒業・修了制作展2024」のGithub Organization です。
 
-
 ## ツールを体験する
-卒業制作展のビジュアルをデザインする上で発生したデザインツール等を公開しています。
+卒業制作展をデザインする上で発生したツール類を公開しています。
 
 ### [VisualPaintTool](https://www.dropbox.com/scl/fo/8ehhyhf8wvwaujz2288vk/h?rlkey=6idscrclrvbh8pts6d8t73ckh&dl=0)
 丸ドットのビジュアルが描けるデザインツールです。
